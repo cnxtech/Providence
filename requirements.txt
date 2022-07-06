@@ -18,6 +18,6 @@ boto==2.33.0
 Jinja2==2.7.3
 ndg-httpsclient
 pyasn1
-lxml==3.4.1
+lxml==4.9.1
 psycopg2==2.7
 p4python
